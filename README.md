@@ -11,4 +11,4 @@
  <li> Clone this repository <ul><li><code> git clone https://github.com/AveryKing/playwright-yoworld.git </code></li></ul> </li>
  <li> Run <code> npm install </code> in the project directory </li>
  <li> Use Fiddler to replace YoVilleApp.js with the YoVilleApp2.js file included in this project </li>
- <li> Run ``npm start`` </li>
+ <li> Run <code>npm start</code> </li>
