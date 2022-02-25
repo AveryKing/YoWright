@@ -6,4 +6,4 @@
 <h2>Instructions</h2>
 <ul>
  <li> Download and install Node.js </li>
- <li> Clone this repository <code> git clone blah </code> </li>
+ <li> Clone this repository <li><code> git clone blah </code></li> </li>
