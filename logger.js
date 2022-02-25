@@ -1,8 +1,8 @@
 import models from './models.js';
 import db from 'mongoose';
 
-const connStr = 'mongodb+srv://fullstack:fullstack@cluster0.qynol.mongodb.net/yoworld?retryWrites=true&w=majority';
-
+// Logs chat messages
+const connStr = 'MONGO DB CONNECTION STRING HERE';
 
 async function logChat({fromPlayerName, messageText, fromPlayerId}) {
     const message = new models.ChatMessage({
